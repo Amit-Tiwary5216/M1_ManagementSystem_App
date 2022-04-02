@@ -1,6 +1,6 @@
 # Description
  * Parking management system is for managing the records of the incoming and outgoing vehicles in parking house. It’s an easy way to retrieve the data if the vehicle has been visited through number he can get that data.
- 
+ ![](6_ImageAndVideos/welcome.png)
 
 # Requirements
   * The whole project is designed in ‘C’ language and different variables and strings have been used for the development of this project. This mini project is easy to operate and understand by the users. This is built as an application.
