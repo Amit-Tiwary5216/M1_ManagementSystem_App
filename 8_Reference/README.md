@@ -3,10 +3,6 @@
 
 - www.youtube.com
 
-- www.DocFoc.com
-
-- www.SlideShare.com
-
 - www.codeproject.com
 
-
+- https://www.javatpoint.com
