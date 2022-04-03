@@ -9,9 +9,11 @@
 
 
 
-- Flowcharts
+* Flowcharts
+
  ![Screenshot (166)](https://user-images.githubusercontent.com/98829664/153240655-d5713c78-b773-4cf1-81ed-fe950e5cf12a.png)
 
 
-- Use case diagram
+* Use case diagram
+
 ![Screenshot (159)](https://user-images.githubusercontent.com/98829664/152671200-68905d1e-82f6-449a-8fd1-b007bcada4fc.png)
