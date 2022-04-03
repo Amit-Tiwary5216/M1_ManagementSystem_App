@@ -22,7 +22,7 @@ int main()
 
 void test_searchrecords(void)
 {
-    char name[20]="Aishwarya";
-    TEST_ASSERT_EQUAL("Aishwarya", name);
+    char name[20]="Amit";
+    TEST_ASSERT_EQUAL("Amit", name);
    
 }

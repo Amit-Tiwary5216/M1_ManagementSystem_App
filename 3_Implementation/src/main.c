@@ -1,9 +1,9 @@
 /**
  * @file main.c
- * @author Aishwarya (aishwaryasood11@gmail.com)
+ * @author Amit Tiwary (it.1803248@gmail.com)
  * @brief 
  * @version 0.1
- * @date 2022-02-21
+ * @date 2022-04-03
  * 
  * @copyright Copyright (c) 2022
  * 

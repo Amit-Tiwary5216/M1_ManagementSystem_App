@@ -1,14 +1,15 @@
-#include "parking.h"
 /**
  * @file parking.c
- * @author Aishwarya
- * @brief Adding parking details and pakrking menu
+ * @author Amit Tiwary (it.1803248@gmail.com)
+ * @brief 
  * @version 0.1
- * @date 2022-02-18
+ * @date 2022-04-03
  * 
  * @copyright Copyright (c) 2022
  * 
  */
+
+#include "parking.h"
 
 
 int year, month, date, number, option, total, total1=0, total2=0, total3=0, total4=0, total5=0;
