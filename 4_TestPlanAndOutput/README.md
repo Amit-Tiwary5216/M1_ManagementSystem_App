@@ -10,8 +10,8 @@
 
 | Test ID |Test Cases | Input Values | Expected Output | Actual Output |
 |:------:|:---------:|:------------:|:---------------:|:-------------:|
-|1.|Added details of Bus|Registration number|System Setup Successful|System Setup Successful|
-|2.|Added details of Truck|Registration number|System Setup Successful|System Setup Successful|
+|1.|Added details of By Cycle|Registration number|System Setup Successful|System Setup Successful|
+|2.|Added details of Motor Cycle|Registration number|System Setup Successful|System Setup Successful|
 |3.|Added details of Private Car|Registration number|System Setup Successful|System Setup Successful|
-|4.|Added details of Motor Cycle|Registration number|System Setup Successful|System Setup Successful|
-|5.|Added details of By Cycle|Registration number|System Setup Successful|System Setup Successful|
+|4.|Added details of Truck|Registration number|System Setup Successful|System Setup Successful|
+|5.|Added details of Bus|Registration number|System Setup Successful|System Setup Successful|
